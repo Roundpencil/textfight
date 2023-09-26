@@ -1,16 +1,26 @@
- affichage des résulats
 1. Les Chuchoteurs des Ombres
 
 Profil principal: Mages (60%)
 Autres profils: Bretteurs offensifs (25%), StratÃ¨ges (15%)
 Culture: InspirÃ©s par les sorciers vaudou, les Chuchoteurs des Ombres utilisent la magie obscure pour communiquer avec les esprits et manipuler les forces de la nuit.
 Unique: Ils peuvent invoquer les esprits des morts pour obtenir des informations et des conseils, et sont capables de lancer des malÃ©dictions puissantes.: 11 wins / 2 loses 
-2. Les HÃ©ritiers du Phoenix
 
-Profil principal: Mages (40%), Bretteurs offensifs (40%)
-Autres profils: Guerriers solides (10%), StratÃ¨ges (10%)
-Culture: Les HÃ©ritiers du Phoenix, inspirÃ©s de la mythologie Ã©gyptienne, sont une tribu dÃ©vouÃ©e Ã  un oiseau mythique, symbole de renaissance et de feu. Ils croient Ã  la transcendance Ã  travers le feu et pratiquent des rituels de purification par les flammes.
-Unique: Ils possÃ¨dent la capacitÃ© de renaÃ®tre de leurs cendres, confÃ©rant une longÃ©vitÃ© exceptionnelle et un lien particulier avec les flammes.: 10 wins / 3 loses 
+2. Les Héritiers du Phénix 
+
+Profil principal:
+
+    Mages (50%): experts dans les arts occultes et la manipulation des flammes.
+    Bretteurs offensifs (35%): leurs épées sont baignées dans des flammes éternelles, conférant une puissance dévastatrice à chaque coup.
+    Autres profils: Guerriers solides (10%), Stratèges (5%).
+
+Culture:
+Les Héritiers du Phénix Mystique, inspirés de la mythologie égyptienne, restent une énigme insondable pour le monde extérieur. Ils vénèrent le Phénix, symbole de renaissance et de feu, et entretiennent une connexion profonde et ancestrale avec cet oiseau légendaire. La transcendance par le feu guide leur existence, pratiquant des rituels de purification et de renaissance à travers les flammes.
+
+Ils sont enveloppés de mystère, alimentant à la fois la crainte et le respect parmi les autres tribus. Leurs mages, détenteurs d'une connaissance profonde des arts occultes, sont maîtres dans la manipulation du feu. Ils créent des flammes inextinguibles, symboles de leur puissance et de leur lien éternel avec le Phénix.
+
+Unique:
+La capacité à renaître de leurs cendres démontre leur longévité exceptionnelle, faisant d’eux des adversaires redoutables sur le champ de bataille. Leur maîtrise surnaturelle du feu leur permet de générer des flammes qui ne s'éteignent jamais, utilisées tant pour la protection que pour l'attaque. Ces flammes, incarnant leur résilience et leur force, sont une manifestation de leur dévotion indéfectible au Phénix, et une source intarissable de leur puissance mystique.
+
 3. Les Griffes du DÃ©sert
 
 Culture: La tribu des Griffes du DÃ©sert est une communautÃ© soudÃ©e, forgÃ©e par les conditions arides du dÃ©sert. Ils valorisent la force, l'endurance et l'agilitÃ©.
@@ -18,6 +28,7 @@ Unique: Leur adaptation au dÃ©sert les rend experts dans la survie en milieu a
 Profil principal: Bretteurs offensifs (70%)
 Autres profils: Guerriers solides (20%), Mages (5%), StratÃ¨ges (5%)
 Description: Cette tribu, habituÃ©e Ã  la rudesse du dÃ©sert, est composÃ©e principalement de bretteurs rapides et agiles. Ils sont experts en combat rapprochÃ© et sont connus pour leur capacitÃ© Ã  frapper fort et rapidement.: 7 wins / 3 loses 
+
 4. Les Ã‰chos de la Lune et de la ForÃªt
 
 Mages (30%), StratÃ¨ges (30%), Bretteurs offensifs (25%), Guerriers solides (15%)
@@ -44,19 +55,42 @@ Guerriers Solides : Les guerriers de la tribu sont les protecteurs du groupe, of
 Conclusion :
 
 Les Ã‰chos de la Lune et de la ForÃªt unissent la puissance astrale et la sagesse de la nature, se tenant comme gardiens des Ã©quilibres cosmiques et terrestres. Ã€ travers des rituels ancestraux et une vie en harmonie avec la forÃªt, ils cÃ©lÃ¨brent et protÃ¨gent les mystÃ¨res profonds de la vie, du cosmos et de la terre elle-mÃªme.: 6 wins / 3 loses 
-5. Les Paladins de Saint Jean
 
-Profil principal: Bretteurs offensifs (50%)
-Autres profils: Mages (30%), Guerriers solides (15%), StratÃ¨ges (5%)
-Culture: Venant de terres lointaines, ils suivent un code de chevalerie strict, vÃ©nÃ©rant un dieu unique.
-Unique: Leur foi inÃ©branlable leur permet d'accomplir des miracles sur le champ de bataille, renforÃ§ant leurs alliÃ©s et dÃ©cimant leurs ennemis.: 5 wins / 3 loses 
-6. Les fils de L'orage Bretteurs Offensifs (42.5%), Mages (40%), Guerriers Solides (12.5%), StratÃ¨ges (5%)  Description: Les fils de l'orage symbolisent l'alliance transcendante de la foudre, du cosmos, et de l'art ancestral du katana. Ce sont des guerriers nobles, unissant la force impÃ©tueuse des Ã©clairs avec la discipline rigoureuse des samouraÃ¯s, et lâ€™Ã©clat mystique des Ã©toiles.  Culture: Ils empruntent des Ã©lÃ©ments des Lames du CrÃ©puscule, vÃ©nÃ©rant le code dâ€™honneur samouraÃ¯ et la maÃ®trise du katana, tout en cÃ©lÃ©brant le pouvoir divin de la foudre et les mystÃ¨res de lâ€™univers. La confluence de ces Ã©lÃ©ments crÃ©e une culture profondÃ©ment enracinÃ©e dans le respect, la discipline, et la quÃªte inlassable de la maÃ®trise personnelle.  Unique: Leur maÃ®trise du combat au katana est fusionnÃ©e avec leur capacitÃ© Ã  canaliser l'Ã©nergie Ã©lectrique et cosmique, crÃ©ant un style de combat distinct et terrifiant. Ils intÃ¨grent la magie du crÃ©puscule, lâ€™Ã©lectricitÃ©, et les mÃ©tÃ©ores dans leurs attaques au katana, faisant de chaque coup une force de la nature.  Techniques de Combat:  Bretteurs Offensifs: Dominant les rangs, ils incarnent la fusion parfaite du guerrier et du mage. MaÃ®tres dans l'art du katana, ils chargent leurs lames de magie du crÃ©puscule, dâ€™Ã©clairs, et d'Ã©nergie stellaire pour des attaques dÃ©vastatrices.  Mages: Experts en magie cosmique et Ã©lectrique, ils complÃ¨tent leur arsenal avec la magie du crÃ©puscule, offrant un soutien magique et une puissance d'attaque formidables.  Guerriers Solides: ArmÃ©s et blindÃ©s avec l'Ã©nergie des Ã©toiles, ils offrent une dÃ©fense inÃ©branlable et rÃ©sistent aux assauts les plus vigoureux.  StratÃ¨ges: Utilisant la sagesse astrale et la discipline samouraÃ¯, ils coordonnent les mouvements et les attaques de la tribu avec une prÃ©cision cÃ©leste.  Conclusion:  Les fils de l'orage incarnent une symbiose sublime entre lâ€™ancien et le cÃ©leste, le martial et le magique. Ils naviguent sur le champ de bataille comme des Ã©toiles filantes, leurs katanas zÃ©brant lâ€™air de traÃ®nÃ©es luminescentes, tandis que la foudre et les mÃ©tÃ©ores s'abattent sur leurs adversaires, tÃ©moignant de leur puissance polyvalente et harmonieuse.: 5 wins / 3 loses 
+5. Les Croisés de la Lumière Éternelle
+
+Profil Principal: Bretteurs offensifs (35%)
+
+    Autres Profils: Mages (40%), Guerriers solides (15%), Stratèges (10%)
+
+Description:
+Les Croisés de la Lumière Éternelle marchent fièrement sous le soleil éclatant, leur voie éclairée par une dévotion inébranlable envers leur dieu unique. Porteurs de la lumière éternelle, ils se distinguent par leur noblesse d’âme et leur puissance au combat, incarnant la fusion divine de la force physique et de l'éclat spirituel.
+
+Culture:
+Suivant un code de chevalerie impeccable, les Croisés de la Lumière Éternelle se lèvent avec l’aube, saluant les rayons naissants du jour dans la méditation et la prière. La lumière est pour eux à la fois guide et bouclier, la manifestation éclatante de la présence divine dans le monde tangible. Ils s'engagent à faire briller cette lumière dans les recoins les plus sombres, apportant espoir et réconfort aux âmes perdues.
+
+Unique:
+Leur foi inébranlable et leur lien sacré avec la lumière leur permettent d'accomplir des miracles sur le champ de bataille. Ils peuvent invoquer l'énergie solaire pour se guérir et régénérer leurs forces, tout en renforçant leur bravoure et leur détermination. Les Croisés sont également capables de canaliser cette puissance divine pour déchaîner des attaques dévastatrices, illuminant le terrain de bataille avec la splendeur de leur pouvoir.
+
+Techniques de Combat:
+
+Bretteurs Offensifs: Équipés de lames sacrées, les bretteurs des Croisés frappent avec la force et la précision de la lumière solaire, tranchant l’obscurité et l’adversité avec une grâce céleste.
+Mages: Les mages des Croisés puisent dans l'abondance du soleil, tissant des sortilèges de protection et de lumière, protégeant leurs alliés et confondant leurs ennemis avec des éclairs d'énergie lumineuse.
+Guerriers Solides: Revêtus d’armures lumineuses, les guerriers résistent aux assauts ennemis avec la stoïcité de la montagne baignée de soleil, se tenant comme des piliers inébranlables de défense.
+Stratèges: Les stratèges, armés de clairvoyance divine, manœuvrent avec une sagesse éclairée, assurant la cohésion et la victoire de leurs frères d’armes sur le champ de bataille.
+
+Dans un monde souvent assombri par le conflit et la désolation, les Croisés de la Lumière Éternelle demeurent un symbole resplendissant d'espoir, de vertu et de dévotion, unissant la bravoure du guerrier avec la sérénité du sage sous le dais céleste de la lumière éternelle.
+
+6. Les fils de L'orage 
+
+Bretteurs Offensifs (42.5%), Mages (40%), Guerriers Solides (12.5%), StratÃ¨ges (5%)  Description: Les fils de l'orage symbolisent l'alliance transcendante de la foudre, du cosmos, et de l'art ancestral du katana. Ce sont des guerriers nobles, unissant la force impÃ©tueuse des Ã©clairs avec la discipline rigoureuse des samouraÃ¯s, et lâ€™Ã©clat mystique des Ã©toiles.  Culture: Ils empruntent des Ã©lÃ©ments des Lames du CrÃ©puscule, vÃ©nÃ©rant le code dâ€™honneur samouraÃ¯ et la maÃ®trise du katana, tout en cÃ©lÃ©brant le pouvoir divin de la foudre et les mystÃ¨res de lâ€™univers. La confluence de ces Ã©lÃ©ments crÃ©e une culture profondÃ©ment enracinÃ©e dans le respect, la discipline, et la quÃªte inlassable de la maÃ®trise personnelle.  Unique: Leur maÃ®trise du combat au katana est fusionnÃ©e avec leur capacitÃ© Ã  canaliser l'Ã©nergie Ã©lectrique et cosmique, crÃ©ant un style de combat distinct et terrifiant. Ils intÃ¨grent la magie du crÃ©puscule, lâ€™Ã©lectricitÃ©, et les mÃ©tÃ©ores dans leurs attaques au katana, faisant de chaque coup une force de la nature.  Techniques de Combat:  Bretteurs Offensifs: Dominant les rangs, ils incarnent la fusion parfaite du guerrier et du mage. MaÃ®tres dans l'art du katana, ils chargent leurs lames de magie du crÃ©puscule, dâ€™Ã©clairs, et d'Ã©nergie stellaire pour des attaques dÃ©vastatrices.  Mages: Experts en magie cosmique et Ã©lectrique, ils complÃ¨tent leur arsenal avec la magie du crÃ©puscule, offrant un soutien magique et une puissance d'attaque formidables.  Guerriers Solides: ArmÃ©s et blindÃ©s avec l'Ã©nergie des Ã©toiles, ils offrent une dÃ©fense inÃ©branlable et rÃ©sistent aux assauts les plus vigoureux.  StratÃ¨ges: Utilisant la sagesse astrale et la discipline samouraÃ¯, ils coordonnent les mouvements et les attaques de la tribu avec une prÃ©cision cÃ©leste.  Conclusion:  Les fils de l'orage incarnent une symbiose sublime entre lâ€™ancien et le cÃ©leste, le martial et le magique. Ils naviguent sur le champ de bataille comme des Ã©toiles filantes, leurs katanas zÃ©brant lâ€™air de traÃ®nÃ©es luminescentes, tandis que la foudre et les mÃ©tÃ©ores s'abattent sur leurs adversaires, tÃ©moignant de leur puissance polyvalente et harmonieuse.: 5 wins / 3 loses 
+
 7. Les Sangs Purs
 
 Profil principal: Guerriers solides (70%)
 Autres profils: Bretteurs offensifs (15%), Mages (10%), StratÃ¨ges (5%)
 Culture: Un peuple fier avec un riche hÃ©ritage et une tradition guerriÃ¨re. Le maintien de la lignÃ©e est primordial.
 Unique: La puretÃ© de leur sang leur confÃ¨re une grande force et une rÃ©silience face aux adversaires. Ils sont rÃ©putÃ©s pour leur courage au combat et leur loyautÃ© indÃ©fectible.: 4 wins / 3 loses 
+
 8. Les Forgerons du Promontoire
 
 Guerriers solides (80%), Mages (15%), StratÃ¨ges (5%)
@@ -80,12 +114,14 @@ Guerriers Solides : Les guerriers de cette tribu sont Ã©quipÃ©s d'armures de
 Mages : Les mages de cette tribu sont spÃ©cialisÃ©s dans la magie de la terre, capable de commander aux Ã©lÃ©ments rocheux pour crÃ©er des dÃ©fenses impÃ©nÃ©trables ou pour assaillir leurs ennemis avec des projectiles de pierre.
 
 StratÃ¨ges : Bien que peu nombreux, les stratÃ¨ges sont essentiels pour la planification de la construction et la dÃ©fense des forteresses de la tribu, ainsi que pour l'organisation des forces de la tribu lors des conflits.: 4 wins / 3 loses 
+
 9. Les Sentinelles de l'Acier
 
 Profil principal: Guerriers solides (60%)
 Autres profils: StratÃ¨ges (25%), Bretteurs offensifs (10%), Mages (5%)
 Culture: Les Sentinelles de l'Acier sont inspirÃ©es des Spartiates de la GrÃ¨ce antique, avec une touche de fantastique. DÃ¨s leur plus jeune Ã¢ge, les membres de cette tribu sont formÃ©s au combat et Ã  la tactique de guerre. Ils portent des armures renforcÃ©es par des enchantements anciens qui les rendent presque invincibles sur le champ de bataille.
 Unique: Leur discipline et leur courage sont lÃ©gendaires, ainsi que leur habiletÃ© Ã  forger des armes et armures magiques.: 3 wins / 3 loses 
+
 10. Les De Vermeris
 
 Profil principal: Guerriers solides (80%)
@@ -117,65 +153,34 @@ Mages: SpÃ©cialisÃ©s dans la magie aÃ©rienne, ces mages confÃ¨rent aux m
 Conclusion:
 
 Les Cavaliers du Vent s'Ã©lÃ¨vent dans les cieux sur des ailes magiques, incarnant la libertÃ© et l'agilitÃ© du vent et des oiseaux qu'ils vÃ©nÃ¨rent. MaÃ®tres de la guerre montÃ©e, ils combinent la force des cavaliers des steppes avec la magie des cieux, faisant d'eux un adversaire insaisissable et redoutable sur le champ de bataille.: 3 wins / 3 loses 
-12. Les Gardiens du Souffle
 
-Profil principal: Mages (80%)
-Autres profils: StratÃ¨ges (15%), Guerriers solides (3%), Bretteurs offensifs (2%)
-Culture: Les Gardiens du Souffle sont inspirÃ©s des moines tibÃ©tains, avec une forte influence de l'Ã©lÃ©ment air. Ils sont pacifistes de nature, prÃ©fÃ©rant la mÃ©ditation et la sagesse Ã  la confrontation directe, mais peuvent contrÃ´ler les courants aÃ©riens pour se dÃ©fendre.
-Unique: Leur connexion avec les vents leur permet de prÃ©dire les changements de temps et d'invoquer des tempÃªtes.: 2 wins / 3 loses 
-13. Les Ã‰nigmes de la Brume
 
-Profil principal: Mages (60%)
-Autres profils: StratÃ¨ges (25%), Bretteurs offensifs (10%), Guerriers solides (5%)
-Culture: Ils vivent dans des zones nÃ©buleuses, cultivant le mystÃ¨re et la connaissance ancienne. La brume les protÃ¨ge et dissimule leurs secrets.
-Unique: Ils peuvent contrÃ´ler la brume, la rendant dense pour se cacher ou la dissipant pour rÃ©vÃ©ler la vÃ©ritÃ© cachÃ©e.: 2 wins / 3 loses 
-14. Les Soleils de l'Aurore
+11. Les Voiles de l'Abyssal
 
-Profil principal: Mages (50%)
-Autres profils: StratÃ¨ges (30%), Bretteurs offensifs (15%), Guerriers solides (5%)
-Culture: Cette tribu fusionnÃ©e incarne la sagesse, l'illumination et l'harmonie. Ils sont en communion profonde avec le soleil, le voyant comme une source inÃ©puisable de pouvoir, de lumiÃ¨re et de clartÃ©. Ils vivent selon les cycles solaires, se levant Ã  l'aube pour accueillir les premiers rayons du jour et mÃ©ditant Ã  son zÃ©nith pour atteindre une conscience supÃ©rieure. La lumiÃ¨re solaire guide leurs dÃ©cisions, leurs actions et leur magie, leur offrant une perspective unique sur le monde qui les entoure.
-Unique: Ils maÃ®trisent la capacitÃ© de canaliser l'Ã©nergie solaire de diffÃ©rentes maniÃ¨res. Ã€ l'aube, ils utilisent la douce lumiÃ¨re du lever du soleil pour guÃ©rir et rÃ©gÃ©nÃ©rer, tandis qu'Ã  midi, ils mÃ©ditent sous le soleil de zÃ©nith pour renforcer leur esprit et leur concentration, augmentant ainsi leur puissance stratÃ©gique. Cette dualitÃ© de pouvoirs, basÃ©e sur les phases du soleil, fait d'eux des alliÃ©s prÃ©cieux et des adversaires redoutables.
-Combat et dÃ©fense: Sur le champ de bataille, les Soleils de l'Aurore se dÃ©marquent par leur agilitÃ© et leur adaptabilitÃ©. Les mages de la tribu utilisent la lumiÃ¨re du soleil pour crÃ©er des barriÃ¨res protectrices et renforcer leurs sorts d'attaque, tandis que les stratÃ¨ges exploitent leur clartÃ© mentale accrue pour dÃ©jouer et contrer les mouvements ennemis. Les bretteurs offensifs et les guerriers solides, bien que moins nombreux, sont Ã©galement renforcÃ©s par l'Ã©nergie solaire, gagnant en vigueur et en rÃ©silience lorsqu'ils combattent sous la lumiÃ¨re du jour.
+Profil Principal: Mages (60%)
 
-Ainsi, les Soleils de l'Aurore apportent lumiÃ¨re et espoir dans l'obscuritÃ© qui menace, unissant le meilleur des deux tribus originelles en une force Ã©quilibrÃ©e et lumineuse.: 2 wins / 3 loses 
-15. Les Ã‰chos du Torrent
-Profil principal: Mages (50%)
-Autres profils: Bretteurs offensifs (30%), Guerriers solides (10%), StratÃ¨ges (10%)
-Description: Les Ã‰chos du Torrent sont en harmonie avec l'eau. Ils ont la capacitÃ© de manier l'eau sous toutes ses formes, l'utilisant pour soigner ou attaquer. Ils sont Ã©galement habiles dans les combats rapprochÃ©s, se dÃ©plaÃ§ant avec la fluiditÃ© d'un cours d'eau.
+    Autres Profils: Bretteurs offensifs (25%), Guerriers solides (8%), Stratèges (7%)
 
-Culture: Les Ã‰chos du Torrent sont liÃ©s Ã  l'eau, valorisant la fluiditÃ©, le mouvement et la vie. Ils tiennent des cÃ©rÃ©monies au bord de l'eau, cÃ©lÃ©brant les cycles de l'eau et la vie qu'elle apporte.
-Unique: Leur lien avec l'eau leur confÃ¨re une grande comprÃ©hension des courants et des marÃ©es, utile pour la pÃªche, le commerce et les tactiques de combat liÃ©es Ã  l'eau.: 1 wins / 3 loses 
-16. Les Ombres Silencieuses
+Description:
+Les Voiles de l'Abyssal sont les descendants mystiques des Échos du Torrent, conservant leur harmonie intime avec l'eau tout en incorporant l'énigme de la brume et le souffle céleste. Apparaissant rarement dans leur forme véritable, ils se mêlent aux ombres et aux courants, changeants et insaisissables comme les flots eux-mêmes.
 
-Profil principal: Bretteurs offensifs (70%)
-Autres profils: Mages (15%), StratÃ¨ges (10%), Guerriers solides (5%)
-Culture: Cette tribu est inspirÃ©e des ninjas du Japon fÃ©odal, doublÃ©e de mysticisme. Les Ombres Silencieuses valorisent l'agilitÃ©, la prÃ©cision et l'art du camouflage. Ils communiquent par un langage secret et sont maÃ®tres dans l'art de l'espionnage et de l'assassinat.
-Unique: Leur capacitÃ© Ã  se dÃ©placer sans bruit et Ã  maÃ®triser des techniques d'ombre et de lumiÃ¨re les rend presque invisibles.: 1 wins / 3 loses 
-17. Les Adeptes de la Flamme
+Culture:
+Tout comme les rivières entrelacées, la culture des Voiles de l'Abyssal est un mélange fluidique de mouvement perpétuel et de mystère profond. La ville où ils résident est remplie de voiles de brume et de miroitements d'eau, où les bâtiments semblent flotter et se déplacer avec les marées. Leur connexion avec l'eau est célébrée dans des cérémonies majestueuses au bord des lacs miroitants et des rivières tourbillonnantes de leur cité enchanteresse.
 
-Profil principal: Mages (60%)
-Autres profils: StratÃ¨ges (25%), Bretteurs offensifs (10%), Guerriers solides (5%)
-Culture: EntourÃ©s de mystÃ¨res, ils sont souvent craints par les autres en raison de leur connaissance profonde des arts occultes.
-Unique: Ils manipulent le feu avec une aisance surnaturelle, capable de crÃ©er des flammes qui ne s'Ã©teignent jamais, utilisÃ©es tant pour la protection que pour la destruction.: 1 wins / 3 loses 
-18. Les Mirage des Sables
+Unique:
+Leur alliance avec les éléments aquatiques confère aux Voiles de l'Abyssal une compréhension profonde des courants marins et des cycles lunaires. Cette connaissance est essentielle pour leurs activités maritimes, que ce soit pour la pêche, le commerce ou les tactiques de combat aquatiques. Leur capacité à manier l'eau sous toutes ses formes est un atout redoutable, l'utilisant pour soigner, défendre ou lancer des assauts dévastateurs.
 
-Profil principal: StratÃ¨ges (40%)
-Autres profils: Bretteurs offensifs (35%), Mages (20%), Guerriers solides (5%)
-Culture: Les Mirage des Sables sont un peuple de nomades du dÃ©sert, unis dans leur connaissance profonde du sable et du mirage. Ils sont les descendants directs des anciennes tribus du dÃ©sert, et leur culture est un mÃ©lange harmonieux de survie, d'adaptabilitÃ© et de vÃ©nÃ©ration des illusions. Ils voient les mirages et les tempÃªtes de sable non comme des menaces, mais comme des signes divins, des guides qui les mÃ¨nent Ã  travers les Ã©tendues arides du dÃ©sert.
-Unique: Les Mirage des Sables ont une maÃ®trise sans Ã©gale du dÃ©sert et de ses Ã©lÃ©ments. Ils sont capables d'utiliser le sable comme une arme, crÃ©ant des illusions grandioses et des obstacles insurmontables pour confondre et piÃ©ger leurs ennemis. Ils se dÃ©placent avec grÃ¢ce et agilitÃ© Ã  travers les dunes, leurs mouvements dictÃ©s par les caprices du vent et du sable.
-Combat et dÃ©fense: Sur le champ de bataille, les Mirage des Sables sont des adversaires redoutables et insaisissables. Les stratÃ¨ges de la tribu utilisent leur connaissance du dÃ©sert pour prÃ©dire et manipuler les mouvements de l'ennemi, tandis que les bretteurs offensifs, agiles et rapides, lancent des attaques Ã©clairs depuis les dunes, disparaissant avant que l'ennemi ne puisse rÃ©agir. Les mages, bien que moins nombreux, sont capables d'invoquer la force du dÃ©sert lui-mÃªme, dÃ©chaÃ®nant des tempÃªtes de sable et crÃ©ant des mirages pour dÃ©sorienter et affaiblir les forces adverses.
-Festivals et cÃ©lÃ©brations: Les festivals de lumiÃ¨re et de sable sont des Ã©vÃ©nements clÃ©s du calendrier des Mirage des Sables. Pendant ces cÃ©lÃ©brations, ils rendent hommage aux divinitÃ©s du dÃ©sert en crÃ©ant des illusions Ã©blouissantes et des tempÃªtes de sable chorÃ©graphiÃ©es, exprimant leur respect et leur dÃ©votion envers les forces qui gouvernent leur monde.
+Forme et Apparence:
+La forme véritable des membres de cette tribu demeure un mystère. Ils se révèlent rarement tels qu'ils sont, préférant apparaître comme des reflets dans l'eau, des silhouettes dans la brume, ou des ombres dans les courants, symbolisant leur nature évasive et changeante.
 
-Ainsi, les Mirage des Sables, unis dans la maÃ®trise du dÃ©sert et des illusions, forment une tribu unique et puissante, prÃªte Ã  dÃ©fendre leur terre contre toute menace avec ruse, agilitÃ© et la force implacable du dÃ©sert lui-mÃªme.: 1 wins / 3 loses 
-19. La Tribu de la CinquiÃ¨me Lune
+Techniques de Combat:
 
-Profil principal: Mages (70%)
-Autres profils: Bretteurs offensifs (15%), StratÃ¨ges (10%), Guerriers solides (5%)
-Culture: Un peuple mystique, en harmonie avec les cycles lunaires qui influent sur leurs pouvoirs magiques.
-Unique: Ils peuvent accroÃ®tre leur pouvoir lors de la cinquiÃ¨me lune, une phase lunaire rare qui les rend extrÃªmement puissants.: 0 wins / 3 loses 
-20. Les Gardiens du Givre
+    Mages: Avec la grâce de l'eau, les mages des Voiles de l'Abyssal canalisent l'essence de l'eau, la brume et le vent pour créer des boucliers protecteurs et des vortex dévastateurs.
+    Bretteurs Offensifs: Les bretteurs évoluent avec la fluidité d'un cours d'eau, leurs mouvements imprévisibles et harmonieux brouillant les lignes entre la danse et le combat.
+    Guerriers Solides et Stratèges: Bien qu’en nombre restreint, les guerriers et les stratèges de la tribu sont comme les rochers inébranlables au milieu du torrent, fournissant une défense solide et une vision claire au milieu du chaos aquatique.
 
-Profil principal: Guerriers solides (60%)
-Autres profils: Mages (20%), StratÃ¨ges (15%), Bretteurs offensifs (5%)
-Culture: Ils rÃ©sident dans des contrÃ©es glacÃ©es, rÃ©sistants au froid et experts dans la survie hivernale.
-Unique: Ils manipulent la glace pour crÃ©er des armes et des armures.: 0 wins / 3 loses 
+Dans la cité des brumes et des miroirs d'eau, les Voiles de l'Abyssal glissent silencieusement, gardiens des secrets submergés et des mystères du flux éternel, veillant sur les eaux sacrées avec une dévotion inébranlable et une sagesse profonde, héritées des échos anciens du torrent.
+
+
+
+

@@ -1,0 +1,225 @@
+6. Les Échos du Torrent
+        Profil principal: Mages (50%)
+        Autres profils: Bretteurs offensifs (30%), Guerriers solides (10%), Stratèges (10%)
+        Description: Les Échos du Torrent sont en harmonie avec l'eau. Ils ont la capacité de manier l'eau sous toutes ses formes, l'utilisant pour soigner ou attaquer. Ils sont également habiles dans les combats rapprochés, se déplaçant avec la fluidité d'un cours d'eau.
+
+    Culture: Les Échos du Torrent sont liés à l'eau, valorisant la fluidité, le mouvement et la vie. Ils tiennent des cérémonies au bord de l'eau, célébrant les cycles de l'eau et la vie qu'elle apporte.
+    Unique: Leur lien avec l'eau leur confère une grande compréhension des courants et des marées, utile pour la pêche, le commerce et les tactiques de combat liées à l'eau.
+
+8. Les Griffes du Désert
+
+    Culture: La tribu des Griffes du Désert est une communauté soudée, forgée par les conditions arides du désert. Ils valorisent la force, l'endurance et l'agilité.
+    Unique: Leur adaptation au désert les rend experts dans la survie en milieu aride, la recherche d'eau et la connaissance des créatures et des plantes du désert.
+        Profil principal: Bretteurs offensifs (70%)
+        Autres profils: Guerriers solides (20%), Mages (5%), Stratèges (5%)
+        Description: Cette tribu, habituée à la rudesse du désert, est composée principalement de bretteurs rapides et agiles. Ils sont experts en combat rapproché et sont connus pour leur capacité à frapper fort et rapidement.
+
+9. Les Sentinelles de l'Acier
+
+    Profil principal: Guerriers solides (60%)
+    Autres profils: Stratèges (25%), Bretteurs offensifs (10%), Mages (5%)
+    Culture: Les Sentinelles de l'Acier sont inspirées des Spartiates de la Grèce antique, avec une touche de fantastique. Dès leur plus jeune âge, les membres de cette tribu sont formés au combat et à la tactique de guerre. Ils portent des armures renforcées par des enchantements anciens qui les rendent presque invincibles sur le champ de bataille.
+    Unique: Leur discipline et leur courage sont légendaires, ainsi que leur habileté à forger des armes et armures magiques.
+
+10. Les Ombres Silencieuses
+
+    Profil principal: Bretteurs offensifs (70%)
+    Autres profils: Mages (15%), Stratèges (10%), Guerriers solides (5%)
+    Culture: Cette tribu est inspirée des ninjas du Japon féodal, doublée de mysticisme. Les Ombres Silencieuses valorisent l'agilité, la précision et l'art du camouflage. Ils communiquent par un langage secret et sont maîtres dans l'art de l'espionnage et de l'assassinat.
+    Unique: Leur capacité à se déplacer sans bruit et à maîtriser des techniques d'ombre et de lumière les rend presque invisibles.
+
+11. Les Gardiens du Souffle
+
+    Profil principal: Mages (80%)
+    Autres profils: Stratèges (15%), Guerriers solides (3%), Bretteurs offensifs (2%)
+    Culture: Les Gardiens du Souffle sont inspirés des moines tibétains, avec une forte influence de l'élément air. Ils sont pacifistes de nature, préférant la méditation et la sagesse à la confrontation directe, mais peuvent contrôler les courants aériens pour se défendre.
+    Unique: Leur connexion avec les vents leur permet de prédire les changements de temps et d'invoquer des tempêtes.
+
+12. Les Héritiers du Phoenix
+
+    Profil principal: Mages (40%), Bretteurs offensifs (40%)
+    Autres profils: Guerriers solides (10%), Stratèges (10%)
+    Culture: Les Héritiers du Phoenix, inspirés de la mythologie égyptienne, sont une tribu dévouée à un oiseau mythique, symbole de renaissance et de feu. Ils croient à la transcendance à travers le feu et pratiquent des rituels de purification par les flammes.
+    Unique: Ils possèdent la capacité de renaître de leurs cendres, conférant une longévité exceptionnelle et un lien particulier avec les flammes.
+
+
+15. Les Chuchoteurs des Ombres
+
+    Profil principal: Mages (60%)
+    Autres profils: Bretteurs offensifs (25%), Stratèges (15%)
+    Culture: Inspirés par les sorciers vaudou, les Chuchoteurs des Ombres utilisent la magie obscure pour communiquer avec les esprits et manipuler les forces de la nuit.
+    Unique: Ils peuvent invoquer les esprits des morts pour obtenir des informations et des conseils, et sont capables de lancer des malédictions puissantes.
+
+24. Les Énigmes de la Brume
+
+    Profil principal: Mages (60%)
+    Autres profils: Stratèges (25%), Bretteurs offensifs (10%), Guerriers solides (5%)
+    Culture: Ils vivent dans des zones nébuleuses, cultivant le mystère et la connaissance ancienne. La brume les protège et dissimule leurs secrets.
+    Unique: Ils peuvent contrôler la brume, la rendant dense pour se cacher ou la dissipant pour révéler la vérité cachée.
+
+34. Les Sangs Purs
+
+    Profil principal: Guerriers solides (70%)
+    Autres profils: Bretteurs offensifs (15%), Mages (10%), Stratèges (5%)
+    Culture: Un peuple fier avec un riche héritage et une tradition guerrière. Le maintien de la lignée est primordial.
+    Unique: La pureté de leur sang leur confère une grande force et une résilience face aux adversaires. Ils sont réputés pour leur courage au combat et leur loyauté indéfectible.
+
+35. Les Adeptes de la Flamme
+
+    Profil principal: Mages (60%)
+    Autres profils: Stratèges (25%), Bretteurs offensifs (10%), Guerriers solides (5%)
+    Culture: Entourés de mystères, ils sont souvent craints par les autres en raison de leur connaissance profonde des arts occultes.
+    Unique: Ils manipulent le feu avec une aisance surnaturelle, capable de créer des flammes qui ne s'éteignent jamais, utilisées tant pour la protection que pour la destruction.
+
+36. Les De Vermeris
+
+    Profil principal: Guerriers solides (80%)
+    Autres profils: Stratèges (10%), Bretteurs offensifs (5%), Mages (5%)
+    Culture: Protecteurs de la cité, ils considèrent la défense de leur peuple comme leur devoir sacré.
+    Unique: Leurs liens de sang et de famille les rendent inséparables au combat, formant un front uni et impénétrable.
+
+37. La Tribu de la Cinquième Lune
+
+    Profil principal: Mages (70%)
+    Autres profils: Bretteurs offensifs (15%), Stratèges (10%), Guerriers solides (5%)
+    Culture: Un peuple mystique, en harmonie avec les cycles lunaires qui influent sur leurs pouvoirs magiques.
+    Unique: Ils peuvent accroître leur pouvoir lors de la cinquième lune, une phase lunaire rare qui les rend extrêmement puissants.
+
+38. Les Paladins de Saint Jean
+
+    Profil principal: Bretteurs offensifs (50%)
+    Autres profils: Mages (30%), Guerriers solides (15%), Stratèges (5%)
+    Culture: Venant de terres lointaines, ils suivent un code de chevalerie strict, vénérant un dieu unique.
+    Unique: Leur foi inébranlable leur permet d'accomplir des miracles sur le champ de bataille, renforçant leurs alliés et décimant leurs ennemis.
+
+
+26. Les Gardiens du Givre
+
+Profil principal: Guerriers solides (60%)
+Autres profils: Mages (20%), Stratèges (15%), Bretteurs offensifs (5%)
+Culture: Ils résident dans des contrées glacées, résistants au froid et experts dans la survie hivernale.
+Unique: Ils manipulent la glace pour créer des armes et des armures.
+	
+39. Les Soleils de l'Aurore
+
+Profil principal: Mages (50%)
+Autres profils: Stratèges (30%), Bretteurs offensifs (15%), Guerriers solides (5%)
+Culture: Cette tribu fusionnée incarne la sagesse, l'illumination et l'harmonie. Ils sont en communion profonde avec le soleil, le voyant comme une source inépuisable de pouvoir, de lumière et de clarté. Ils vivent selon les cycles solaires, se levant à l'aube pour accueillir les premiers rayons du jour et méditant à son zénith pour atteindre une conscience supérieure. La lumière solaire guide leurs décisions, leurs actions et leur magie, leur offrant une perspective unique sur le monde qui les entoure.
+Unique: Ils maîtrisent la capacité de canaliser l'énergie solaire de différentes manières. À l'aube, ils utilisent la douce lumière du lever du soleil pour guérir et régénérer, tandis qu'à midi, ils méditent sous le soleil de zénith pour renforcer leur esprit et leur concentration, augmentant ainsi leur puissance stratégique. Cette dualité de pouvoirs, basée sur les phases du soleil, fait d'eux des alliés précieux et des adversaires redoutables.
+Combat et défense: Sur le champ de bataille, les Soleils de l'Aurore se démarquent par leur agilité et leur adaptabilité. Les mages de la tribu utilisent la lumière du soleil pour créer des barrières protectrices et renforcer leurs sorts d'attaque, tandis que les stratèges exploitent leur clarté mentale accrue pour déjouer et contrer les mouvements ennemis. Les bretteurs offensifs et les guerriers solides, bien que moins nombreux, sont également renforcés par l'énergie solaire, gagnant en vigueur et en résilience lorsqu'ils combattent sous la lumière du jour.
+
+Ainsi, les Soleils de l'Aurore apportent lumière et espoir dans l'obscurité qui menace, unissant le meilleur des deux tribus originelles en une force équilibrée et lumineuse.
+
+40. Les Mirage des Sables
+
+Profil principal: Stratèges (40%)
+Autres profils: Bretteurs offensifs (35%), Mages (20%), Guerriers solides (5%)
+Culture: Les Mirage des Sables sont un peuple de nomades du désert, unis dans leur connaissance profonde du sable et du mirage. Ils sont les descendants directs des anciennes tribus du désert, et leur culture est un mélange harmonieux de survie, d'adaptabilité et de vénération des illusions. Ils voient les mirages et les tempêtes de sable non comme des menaces, mais comme des signes divins, des guides qui les mènent à travers les étendues arides du désert.
+Unique: Les Mirage des Sables ont une maîtrise sans égale du désert et de ses éléments. Ils sont capables d'utiliser le sable comme une arme, créant des illusions grandioses et des obstacles insurmontables pour confondre et piéger leurs ennemis. Ils se déplacent avec grâce et agilité à travers les dunes, leurs mouvements dictés par les caprices du vent et du sable.
+Combat et défense: Sur le champ de bataille, les Mirage des Sables sont des adversaires redoutables et insaisissables. Les stratèges de la tribu utilisent leur connaissance du désert pour prédire et manipuler les mouvements de l'ennemi, tandis que les bretteurs offensifs, agiles et rapides, lancent des attaques éclairs depuis les dunes, disparaissant avant que l'ennemi ne puisse réagir. Les mages, bien que moins nombreux, sont capables d'invoquer la force du désert lui-même, déchaînant des tempêtes de sable et créant des mirages pour désorienter et affaiblir les forces adverses.
+Festivals et célébrations: Les festivals de lumière et de sable sont des événements clés du calendrier des Mirage des Sables. Pendant ces célébrations, ils rendent hommage aux divinités du désert en créant des illusions éblouissantes et des tempêtes de sable chorégraphiées, exprimant leur respect et leur dévotion envers les forces qui gouvernent leur monde.
+
+Ainsi, les Mirage des Sables, unis dans la maîtrise du désert et des illusions, forment une tribu unique et puissante, prête à défendre leur terre contre toute menace avec ruse, agilité et la force implacable du désert lui-même.
+
+41. Les Forgerons du Promontoire
+
+Guerriers solides (80%), Mages (15%), Stratèges (5%)
+
+Description :
+Les Forgerons du Promontoire sont une synthèse imposante des peuples de la montagne, unis par leur amour et leur maîtrise de la pierre sous toutes ses formes. Habitués aux reliefs accidentés, ils sont experts en défense des positions stratégiques et en construction de fortifications impressionnantes sur les terrains les plus inhospitaliers.
+
+Culture :
+Inspirés des nains des légendes nordiques et de l'ancienne tribu des Veilleurs de la Pierre, les Forgerons du Promontoire sont des artisans exceptionnels et des bâtisseurs talentueux. Ils célèbrent régulièrement des fêtes de la pierre où des monuments majestueux sont érigés en l'honneur des dieux de la montagne et de la pierre. Leur société valorise l'endurance, la solidarité, et le savoir-faire artisanal, en particulier dans l'art de la construction en pierre et de la maîtrise des golems de pierre.
+Excellents forgerons et artisans.
+Unique: Ils créent des armes et armures exceptionnelles.
+
+
+Unique :
+Leur connexion unique avec la pierre leur donne la capacité de la modeler à leur guise. Ils peuvent ainsi créer des boucliers, des armes, et même des armures entières à partir de la roche elle-même, en plein combat si nécessaire. Les Forgerons du Promontoire sont également connus pour leur résistance aux attaques magiques, un héritage de leur lien étroit avec la terre ferme et inébranlable.
+
+Techniques de Combat :
+
+Guerriers Solides : Les guerriers de cette tribu sont équipés d'armures de pierre personnalisées et manient des armes façonnées dans les roches les plus robustes. Ils sont entraînés pour défendre efficacement les terrains escarpés et les fortifications.
+
+Mages : Les mages de cette tribu sont spécialisés dans la magie de la terre, capable de commander aux éléments rocheux pour créer des défenses impénétrables ou pour assaillir leurs ennemis avec des projectiles de pierre.
+
+Stratèges : Bien que peu nombreux, les stratèges sont essentiels pour la planification de la construction et la défense des forteresses de la tribu, ainsi que pour l'organisation des forces de la tribu lors des conflits.
+
+42. Les Échos de la Lune et de la Forêt
+
+    Mages (30%), Stratèges (30%), Bretteurs offensifs (25%), Guerriers solides (15%)
+
+Description :
+La fusion des Frères de la Lune Astrale avec les Sons de la Forêt donne naissance aux Échos de la Lune et de la Forêt, une tribu équilibrée entre la magie des astres, la sagesse stratégique et la force de la nature. Ils incarnent l’harmonie, l’adaptabilité et l’unité, capable de se transformer en loups et d'invoquer les créatures de la forêt pour les assister.
+
+Culture :
+Les Échos de la Lune et de la Forêt sont profondément ancrés dans la nature, bénéficiant d'une communication étroite avec les arbres et les animaux forestiers, tout en vénérant les astres. La pleine lune est le moment où ils renforcent leur lien avec la forêt, organisant des cérémonies silencieuses et méditatives au cœur des bois, baignés par la lumière lunaire.
+
+Unique :
+Leur capacité à se transformer en loups est combinée à la puissance d’invoquer des alliés des profondeurs de la forêt. Leur magie, bien que puissante à tout moment, atteint son apogée pendant les nuits de pleine lune, où ils canalisent les énergies célestes et terrestres pour réaliser des prouesses extraordinaires.
+
+Techniques de Combat :
+
+    Mages : Maîtrisant les énergies des astres et de la terre, les mages de cette tribu peuvent invoquer la force des éléments et des créatures de la forêt en plus de leur propre magie astrale.
+
+    Stratèges : Experts en communication et en planification, ils coordonnent les offensives avec une précision surnaturelle, utilisant les arbres et les animaux comme leurs yeux et leurs oreilles à travers la forêt.
+
+    Bretteurs Offensifs : Agile comme des loups, ces guerriers excèdent en rapidité et en agilité, se fondant dans l'ombre de la forêt pour surprendre leurs adversaires.
+
+    Guerriers Solides : Les guerriers de la tribu sont les protecteurs du groupe, offrant leur solidité et leur résilience en harmonie avec la robustesse des arbres séculaires de la forêt.
+
+Conclusion :
+
+Les Échos de la Lune et de la Forêt unissent la puissance astrale et la sagesse de la nature, se tenant comme gardiens des équilibres cosmiques et terrestres. À travers des rituels ancestraux et une vie en harmonie avec la forêt, ils célèbrent et protègent les mystères profonds de la vie, du cosmos et de la terre elle-même.
+
+43. Les Cavaliers du Vent
+Bretteurs Offensifs (60%), Guerriers Solides (18%), Stratèges (15%), Mages (7%)
+
+Description:
+Fusion des Grives des Vents et des Ailes de la Liberté, Les Cavaliers du Vent incarnent la quête incessante de liberté, la maîtrise de l'art de la guerre montée, et une connexion profonde avec les oiseaux et les éléments aériens. Épris de liberté et d’agilité, ils conjuguent leur habileté au combat avec la capacité de communiquer avec les oiseaux et de prendre leur envol sur des ailes magiques, incarnant la liberté absolue et la force du vent.
+
+Culture:
+Les Cavaliers du Vent sont un peuple nomade et fier, héritiers d'une tradition de cavaliers des steppes, vivant en harmonie avec les oiseaux du ciel. Ils voient dans le vol des oiseaux un symbole de liberté et d'harmonie avec le vent, élément qu'ils vénèrent particulièrement. Leur mode de vie, inspiré par les peuples cavaliers des steppes, valorise la mobilité, l’adresse et l’indépendance. Les cérémonies importantes de la tribu s’articulent autour des oiseaux et des vents, où ils dansent et chantent en hommage aux cieux.
+
+Unique:
+Alliant agilité et précision, les membres de cette tribu sont d'insurpassables archers montés, capables de décocher leurs flèches avec une précision mortelle tout en chevauchant à pleine vitesse. Ils peuvent communiquer avec les oiseaux pour la reconnaissance et les messages, et utilisent des ailes magiques pour voler sur de courtes distances, semant confusion et terreur chez leurs ennemis en apparaissant là où on les attend le moins.
+
+Techniques de Combat:
+
+Bretteurs Offensifs: Expert dans l'art du combat monté, ils manient l'arc et l'épée avec une agilité impressionnante, se déplaçant rapidement sur le champ de bataille et frappant là où l'ennemi s’y attend le moins.
+
+Guerriers Solides: Bien qu'en minorité, ces combattants robustes fournissent une défense solide pour leur tribu, agissant comme le roc sur lequel les vagues ennemies se brisent.
+
+Stratèges: Les stratèges de la tribu utilisent les oiseaux pour la reconnaissance, assurant que leurs forces sont toujours bien positionnées et informées.
+
+Mages: Spécialisés dans la magie aérienne, ces mages confèrent aux membres de la tribu la capacité de voler pour une courte durée, ajoutant un élément supplémentaire de mobilité et de surprise à leurs tactiques de combat.
+
+Conclusion:
+
+Les Cavaliers du Vent s'élèvent dans les cieux sur des ailes magiques, incarnant la liberté et l'agilité du vent et des oiseaux qu'ils vénèrent. Maîtres de la guerre montée, ils combinent la force des cavaliers des steppes avec la magie des cieux, faisant d'eux un adversaire insaisissable et redoutable sur le champ de bataille.
+
+44. Les fils de L'orage
+    Bretteurs Offensifs (42.5%), Mages (40%), Guerriers Solides (12.5%), Stratèges (5%)
+
+Description:
+Les fils de l'orage symbolisent l'alliance transcendante de la foudre, du cosmos, et de l'art ancestral du katana. Ce sont des guerriers nobles, unissant la force impétueuse des éclairs avec la discipline rigoureuse des samouraïs, et l’éclat mystique des étoiles.
+
+Culture:
+Ils empruntent des éléments des Lames du Crépuscule, vénérant le code d’honneur samouraï et la maîtrise du katana, tout en célébrant le pouvoir divin de la foudre et les mystères de l’univers. La confluence de ces éléments crée une culture profondément enracinée dans le respect, la discipline, et la quête inlassable de la maîtrise personnelle.
+
+Unique:
+Leur maîtrise du combat au katana est fusionnée avec leur capacité à canaliser l'énergie électrique et cosmique, créant un style de combat distinct et terrifiant. Ils intègrent la magie du crépuscule, l’électricité, et les météores dans leurs attaques au katana, faisant de chaque coup une force de la nature.
+
+Techniques de Combat:
+
+Bretteurs Offensifs: Dominant les rangs, ils incarnent la fusion parfaite du guerrier et du mage. Maîtres dans l'art du katana, ils chargent leurs lames de magie du crépuscule, d’éclairs, et d'énergie stellaire pour des attaques dévastatrices.
+
+Mages: Experts en magie cosmique et électrique, ils complètent leur arsenal avec la magie du crépuscule, offrant un soutien magique et une puissance d'attaque formidables.
+
+Guerriers Solides: Armés et blindés avec l'énergie des étoiles, ils offrent une défense inébranlable et résistent aux assauts les plus vigoureux.
+
+Stratèges: Utilisant la sagesse astrale et la discipline samouraï, ils coordonnent les mouvements et les attaques de la tribu avec une précision céleste.
+
+Conclusion:
+
+Les fils de l'orage incarnent une symbiose sublime entre l’ancien et le céleste, le martial et le magique. Ils naviguent sur le champ de bataille comme des étoiles filantes, leurs katanas zébrant l’air de traînées luminescentes, tandis que la foudre et les météores s'abattent sur leurs adversaires, témoignant de leur puissance polyvalente et harmonieuse.

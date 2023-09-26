@@ -1,0 +1,268 @@
+1. Les Sables du Mirage
+        Profil principal: Bretteurs offensifs
+        Description: Les membres de cette tribu sont connus pour leur agilité et leur maîtrise des mirages et des illusions, héritées de leur vie aux abords du désert. Ils sont excellents en manœuvres de diversion et en attaques éclairs.
+
+    Culture: La culture des Sables du Mirage est basée sur l’adaptabilité et la maîtrise des illusions. Ils vénèrent les mirages comme des messages des dieux, les guidant à travers les défis de la vie. Les festivals de la lumière, où ils créent des illusions éblouissantes dans le désert, sont des événements importants de leur calendrier.
+    Unique: Leur capacité à naviguer dans le désert et à utiliser les illusions en fait des experts en survie et en camouflage, aptes à déjouer les ennemis et à trouver des oasis cachées dans les sables infinis.
+
+2. Les Veilleurs des Étoiles
+        Profil principal: Stratèges ou supports
+        Description: Cette tribu a une profonde connaissance de l'astronomie. Ils sont connus pour leur sagesse et leur capacité à prédire les mouvements des ennemis en observant les étoiles. Ils sont précieux en tant que conseillers et stratèges.
+
+    Culture: La culture des Veilleurs des Étoiles est profondément ancrée dans l'astronomie. Ils croient que les étoiles guident leur destinée, et passent des nuits entières à observer le ciel, notant les mouvements des astres.
+    Unique: Leur connaissance du ciel étoilé les rend inégalés en navigation et en calendrier. Ils peuvent prédire des événements importants et fournir des conseils précieux basés sur les positions stellaires.
+
+3. Les Larmes de la Terre
+        Profil principal: Mages
+        Description: Les membres de cette tribu tirent leur magie de la terre elle-même. Ils sont connus pour leur capacité à invoquer des protections magiques et à communiquer avec la nature, leur offrant un avantage lorsqu'il s'agit de défendre des positions.
+
+    Culture: Les Larmes de la Terre vénèrent la nature et la terre. Ils vivent en harmonie avec leur environnement, pratiquant des rituels qui célèbrent les saisons et les cycles de la vie.
+    Unique: Leur connexion profonde avec la terre leur permet d'invoquer des forces naturelles et de communiquer avec les esprits de la nature, offrant une perspective unique et une profonde compréhension de l'environnement.
+
+4. Les Lames du Vent
+        Profil principal: Bretteurs offensifs
+        Description: Cette tribu, vivant sur les hauteurs, maîtrise l'art de combattre avec le vent, utilisant des techniques de combat aérien et rapide. Ils sont réputés pour leurs attaques imprévisibles et leur grande mobilité sur le champ de bataille.
+
+    Culture: Les membres de cette tribu valorisent la liberté et la légèreté. Ils croient en l'harmonie avec les éléments, en particulier le vent, et organisent des cérémonies de danse aérienne.
+    Unique: Leur affinité avec le vent leur donne une agilité exceptionnelle et une capacité à anticiper les changements météorologiques, utiles pour les manœuvres de combat et la navigation.
+
+5. Les Gardiens du Rocher
+        Profil principal: Guerriers solides
+        Description: Originaire du promontoire rocheux, cette tribu est composée de guerriers robustes habitués à défendre les terrains escarpés. Ils sont experts dans la défense des positions stratégiques et des fortifications.
+
+    Culture: Les Gardiens du Rocher sont connus pour leur stoïcisme et leur robustesse. Ils valorisent l'endurance et la solidarité, célébrant des fêtes de la pierre où ils erigent des monuments en pierre.
+    Unique: Leur expérience sur le terrain rocheux les rend experts dans la construction et la défense de fortifications, et dans l'utilisation des ressources minérales.
+
+6. Les Échos du Torrent
+        Profil principal: Mages (50%)
+        Autres profils: Bretteurs offensifs (30%), Guerriers solides (10%), Stratèges (10%)
+        Description: Les Échos du Torrent sont en harmonie avec l'eau. Ils ont la capacité de manier l'eau sous toutes ses formes, l'utilisant pour soigner ou attaquer. Ils sont également habiles dans les combats rapprochés, se déplaçant avec la fluidité d'un cours d'eau.
+
+    Culture: Les Échos du Torrent sont liés à l'eau, valorisant la fluidité, le mouvement et la vie. Ils tiennent des cérémonies au bord de l'eau, célébrant les cycles de l'eau et la vie qu'elle apporte.
+    Unique: Leur lien avec l'eau leur confère une grande compréhension des courants et des marées, utile pour la pêche, le commerce et les tactiques de combat liées à l'eau.
+
+7. Les Gardiens de l'Aurore
+        Profil principal: Stratèges (60%)
+        Autres profils: Mages (20%), Bretteurs offensifs (10%), Guerriers solides (10%)
+        Description: Les Gardiens de l’Aurore sont des planificateurs nés, ayant une vision claire de la tactique et de la stratégie. Ils prônent la réflexion avant l'action et sont souvent sollicités pour leur sagesse en matière de prise de décision.
+
+    Culture: Les Gardiens de l’Aurore valorisent la lumière, la sagesse et la clairvoyance. Ils saluent chaque aube avec des prières et des méditations, cherchant la guidance et l’illumination.
+    Unique: Leur dévouement à la lumière les rend perspicaces et attentifs aux détails, qualités essentielles pour l’élaboration de stratégies efficaces.
+
+8. Les Griffes du Désert
+
+    Culture: La tribu des Griffes du Désert est une communauté soudée, forgée par les conditions arides du désert. Ils valorisent la force, l'endurance et l'agilité.
+    Unique: Leur adaptation au désert les rend experts dans la survie en milieu aride, la recherche d'eau et la connaissance des créatures et des plantes du désert.
+        Profil principal: Bretteurs offensifs (70%)
+        Autres profils: Guerriers solides (20%), Mages (5%), Stratèges (5%)
+        Description: Cette tribu, habituée à la rudesse du désert, est composée principalement de bretteurs rapides et agiles. Ils sont experts en combat rapproché et sont connus pour leur capacité à frapper fort et rapidement.
+
+9. Les Sentinelles de l'Acier
+
+    Profil principal: Guerriers solides (60%)
+    Autres profils: Stratèges (25%), Bretteurs offensifs (10%), Mages (5%)
+    Culture: Les Sentinelles de l'Acier sont inspirées des Spartiates de la Grèce antique, avec une touche de fantastique. Dès leur plus jeune âge, les membres de cette tribu sont formés au combat et à la tactique de guerre. Ils portent des armures renforcées par des enchantements anciens qui les rendent presque invincibles sur le champ de bataille.
+    Unique: Leur discipline et leur courage sont légendaires, ainsi que leur habileté à forger des armes et armures magiques.
+
+10. Les Ombres Silencieuses
+
+    Profil principal: Bretteurs offensifs (70%)
+    Autres profils: Mages (15%), Stratèges (10%), Guerriers solides (5%)
+    Culture: Cette tribu est inspirée des ninjas du Japon féodal, doublée de mysticisme. Les Ombres Silencieuses valorisent l'agilité, la précision et l'art du camouflage. Ils communiquent par un langage secret et sont maîtres dans l'art de l'espionnage et de l'assassinat.
+    Unique: Leur capacité à se déplacer sans bruit et à maîtriser des techniques d'ombre et de lumière les rend presque invisibles.
+
+11. Les Gardiens du Souffle
+
+    Profil principal: Mages (80%)
+    Autres profils: Stratèges (15%), Guerriers solides (3%), Bretteurs offensifs (2%)
+    Culture: Les Gardiens du Souffle sont inspirés des moines tibétains, avec une forte influence de l'élément air. Ils sont pacifistes de nature, préférant la méditation et la sagesse à la confrontation directe, mais peuvent contrôler les courants aériens pour se défendre.
+    Unique: Leur connexion avec les vents leur permet de prédire les changements de temps et d'invoquer des tempêtes.
+
+12. Les Héritiers du Phoenix
+
+    Profil principal: Mages (40%), Bretteurs offensifs (40%)
+    Autres profils: Guerriers solides (10%), Stratèges (10%)
+    Culture: Les Héritiers du Phoenix, inspirés de la mythologie égyptienne, sont une tribu dévouée à un oiseau mythique, symbole de renaissance et de feu. Ils croient à la transcendance à travers le feu et pratiquent des rituels de purification par les flammes.
+    Unique: Ils possèdent la capacité de renaître de leurs cendres, conférant une longévité exceptionnelle et un lien particulier avec les flammes.
+
+13. Les Eclaireurs des Sables
+
+    Profil principal: Stratèges (50%)
+    Autres profils: Bretteurs offensifs (30%), Mages (15%), Guerriers solides (5%)
+    Culture: Descendants des peuples nomades du désert, les Éclaireurs des Sables ont une connaissance approfondie de la nature et peuvent prédire les tempêtes de sable. Ils sont experts en navigation et ont des compétences remarquables en matière de survie dans les environnements arides.
+    Unique: Ils utilisent le sable comme une arme, créant des illusions et des obstacles pour confondre et piéger leurs ennemis.
+
+14. Les Veilleurs de la Pierre
+
+    Profil principal: Guerriers solides (70%)
+    Autres profils: Mages (20%), Stratèges (10%)
+    Culture: S’inspirant des nains des mythes nordiques, les Veilleurs de la Pierre sont des artisans et des bâtisseurs habiles, réputés pour leurs forteresses impénétrables et leurs golems de pierre.
+    Unique: Ils ont la capacité de commander à la pierre, créant des boucliers et des armes pendant le combat, et sont résistants aux attaques magiques.
+
+15. Les Chuchoteurs des Ombres
+
+    Profil principal: Mages (60%)
+    Autres profils: Bretteurs offensifs (25%), Stratèges (15%)
+    Culture: Inspirés par les sorciers vaudou, les Chuchoteurs des Ombres utilisent la magie obscure pour communiquer avec les esprits et manipuler les forces de la nuit.
+    Unique: Ils peuvent invoquer les esprits des morts pour obtenir des informations et des conseils, et sont capables de lancer des malédictions puissantes.
+
+16. Les Lames du Crépuscule
+
+    Profil principal: Bretteurs offensifs (55%)
+    Autres profils: Mages (30%), Guerriers solides (10%), Stratèges (5%)
+    Culture: Les Lames du Crépuscule, inspirées des samouraïs, suivent un code d’honneur strict et pratiquent des arts martiaux élégants et précis, ainsi que la magie du crépuscule.
+    Unique: Ils maîtrisent l'art du combat au katana et peuvent fusionner leur magie avec leurs lames pour créer des attaques mortelles.
+
+17. Les Enfants de la Lune
+
+    Profil principal: Mages (50%), Stratèges (25%)
+    Autres profils: Bretteurs offensifs (15%), Guerriers solides (10%)
+    Culture: S'inspirant des légendes celtiques, Les Enfants de la Lune vénèrent les astres et ont un lien profond avec la nature, les animaux et les éléments.
+    Unique: Ils peuvent se transformer en loups et ont une puissance magique accrue durant les nuits de pleine lune.
+
+18. Les Flammes de l'Aurore
+
+    Profil principal: Mages (65%)
+    Autres profils: Bretteurs offensifs (20%), Stratèges (10%), Guerriers solides (5%)
+    Culture: Les Flammes de l'Aurore sont un peuple éclairé qui tire sa force de la lumière du soleil levant. Ils sont connus pour leur sagesse et leur calme, s'inspirant de la nature pour forger leur caractère et leurs compétences magiques.
+    Unique: Ils peuvent canaliser l'énergie solaire pour guérir et créer des boucliers de lumière.
+
+19. Les Grives des Vents
+
+    Profil principal: Bretteurs offensifs (60%)
+    Autres profils: Guerriers solides (25%), Stratèges (10%), Mages (5%)
+    Culture: Cette tribu, libre comme le vent, valorise la vitesse et l'agilité. Les Grives des Vents sont inspirés des peuples cavaliers des steppes, excellant dans l'art de la guerre montée.
+    Unique: Ils sont maîtres dans l'art de manier l'arc à cheval et peuvent communiquer avec les oiseaux.
+
+20. Les Gardiens des Abysses
+
+    Profil principal: Stratèges (50%)
+    Autres profils: Mages (30%), Guerriers solides (15%), Bretteurs offensifs (5%)
+    Culture: Inspirés des légendes maritimes, les Gardiens des Abysses sont un peuple mystérieux lié à la mer et à ses créatures abyssales.
+    Unique: Ils ont un lien télépathique avec les créatures marines et peuvent invoquer l'aide des bêtes des profondeurs.
+
+21. Les Faucons de la Montagne
+
+    Profil principal: Guerriers solides (45%), Stratèges (45%)
+    Autres profils: Bretteurs offensifs (5%), Mages (5%)
+    Culture: Ce sont des guerriers et des penseurs austères, vivant dans les hautes montagnes, où ils s'entraînent à lutter contre les éléments.
+    Unique: Ils sont habiles dans l'art de la guerre en terrain montagneux et peuvent se déplacer rapidement sur des terrains difficiles.
+
+22. Les Echo de la Lune
+
+    Profil principal: Mages (70%)
+    Autres profils: Stratèges (20%), Bretteurs offensifs (5%), Guerriers solides (5%)
+    Culture: Ce peuple mystique est profondément connecté à la lune et aux étoiles, et pratique une forme ancienne d'astrologie pour guider leurs décisions.
+    Unique: Ils peuvent tirer de la puissance des phases lunaires pour renforcer leur magie.
+
+23. Les Lances de la Foudre
+
+    Profil principal: Bretteurs offensifs (55%)
+    Autres profils: Mages (25%), Guerriers solides (15%), Stratèges (5%)
+    Culture: Cette tribu vénère la foudre et les tempêtes, croyant que ces forces de la nature sont des manifestations de la colère divine.
+    Unique: Ils peuvent canaliser l'énergie électrique dans leurs attaques, produisant des éclairs dévastateurs.
+
+24. Les Énigmes de la Brume
+
+    Profil principal: Mages (60%)
+    Autres profils: Stratèges (25%), Bretteurs offensifs (10%), Guerriers solides (5%)
+    Culture: Ils vivent dans des zones nébuleuses, cultivant le mystère et la connaissance ancienne. La brume les protège et dissimule leurs secrets.
+    Unique: Ils peuvent contrôler la brume, la rendant dense pour se cacher ou la dissipant pour révéler la vérité cachée.
+
+25. Les Sons de la Forêt
+
+    Profil principal: Stratèges (50%)
+    Autres profils: Bretteurs offensifs (25%), Mages (15%), Guerriers solides (10%)
+    Culture: Connectés à la nature, ils communiquent avec les arbres et les animaux forestiers.
+    Unique: Ils peuvent invoquer des créatures de la forêt pour les aider au combat.
+
+26. Les Gardiens du Givre
+
+    Profil principal: Guerriers solides (60%)
+    Autres profils: Mages (20%), Stratèges (15%), Bretteurs offensifs (5%)
+    Culture: Ils résident dans des contrées glacées, résistants au froid et experts dans la survie hivernale.
+    Unique: Ils manipulent la glace pour créer des armes et des armures.
+
+27. Les Sages de l’Écho
+
+    Profil principal: Mages (70%)
+    Autres profils: Stratèges (20%), Bretteurs offensifs (5%), Guerriers solides (5%)
+    Culture: Détenteurs de la connaissance, ils croient au pouvoir des mots et des histoires.
+    Unique: Ils peuvent matérialiser les mots en armes ou en boucliers magiques.
+
+28. Les Ailes de la Liberté
+
+    Profil principal: Bretteurs offensifs (60%)
+    Autres profils: Stratèges (20%), Guerriers solides (10%), Mages (10%)
+    Culture: Ils vénèrent les oiseaux et aspirent à la liberté absolue.
+    Unique: Ils peuvent voler pour une courte durée grâce à des ailes magiques.
+
+29. Les Veilleurs de l’Éclipse
+
+    Profil principal: Stratèges (45%)
+    Autres profils: Mages (40%), Bretteurs offensifs (10%), Guerriers solides (5%)
+    Culture: Ils sont les gardiens des équilibres cosmiques.
+    Unique: Ils puisent leur force des alignements planétaires.
+
+30. Les Maîtres du Fer
+
+    Profil principal: Guerriers solides (50%)
+    Autres profils: Stratèges (30%), Bretteurs offensifs (15%), Mages (5%)
+    Culture: Excellents forgerons et artisans.
+    Unique: Ils créent des armes et armures exceptionnelles.
+
+31. Les Flammes de l’Éther
+
+    Profil principal: Mages (80%)
+    Autres profils: Stratèges (10%), Bretteurs offensifs (5%), Guerriers solides (5%)
+    Culture: Ils exploitent les énergies cosmiques et astrales.
+    Unique: Ils peuvent invoquer des météores et des aurores boréales.
+
+32. Les Loups du Crépuscule
+
+    Profil principal: Bretteurs offensifs (45%)
+    Autres profils: Guerriers solides (30%), Mages (15%), Stratèges (10%)
+    Culture: Esprits libres et sauvages, unis par des liens de fraternité.
+    Unique: Ils se transforment en loups au crépuscule.
+
+33. Les Lumières du Zénith
+
+    Profil principal: Stratèges (55%)
+    Autres profils: Mages (30%), Bretteurs offensifs (10%), Guerriers solides (5%)
+    Culture: Ils suivent la voie du soleil et cherchent l'illumination intérieure.
+    Unique: Ils peuvent amplifier leur énergie en méditant sous le soleil de midi.
+
+34. Les Sangs Purs
+
+    Profil principal: Guerriers solides (70%)
+    Autres profils: Bretteurs offensifs (15%), Mages (10%), Stratèges (5%)
+    Culture: Un peuple fier avec un riche héritage et une tradition guerrière. Le maintien de la lignée est primordial.
+    Unique: La pureté de leur sang leur confère une grande force et une résilience face aux adversaires. Ils sont réputés pour leur courage au combat et leur loyauté indéfectible.
+
+35. Les Adeptes de la Flamme
+
+    Profil principal: Mages (60%)
+    Autres profils: Stratèges (25%), Bretteurs offensifs (10%), Guerriers solides (5%)
+    Culture: Entourés de mystères, ils sont souvent craints par les autres en raison de leur connaissance profonde des arts occultes.
+    Unique: Ils manipulent le feu avec une aisance surnaturelle, capable de créer des flammes qui ne s'éteignent jamais, utilisées tant pour la protection que pour la destruction.
+
+36. Les De Vermeris
+
+    Profil principal: Guerriers solides (80%)
+    Autres profils: Stratèges (10%), Bretteurs offensifs (5%), Mages (5%)
+    Culture: Protecteurs de la cité, ils considèrent la défense de leur peuple comme leur devoir sacré.
+    Unique: Leurs liens de sang et de famille les rendent inséparables au combat, formant un front uni et impénétrable.
+
+37. La Tribu de la Cinquième Lune
+
+    Profil principal: Mages (70%)
+    Autres profils: Bretteurs offensifs (15%), Stratèges (10%), Guerriers solides (5%)
+    Culture: Un peuple mystique, en harmonie avec les cycles lunaires qui influent sur leurs pouvoirs magiques.
+    Unique: Ils peuvent accroître leur pouvoir lors de la cinquième lune, une phase lunaire rare qui les rend extrêmement puissants.
+
+Les Paladins de Saint Jean
+
+    Profil principal: Bretteurs offensifs (50%)
+    Autres profils: Mages (30%), Guerriers solides (15%), Stratèges (5%)
+    Culture: Venant de terres lointaines, ils suivent un code de chevalerie strict, vénérant un dieu unique.
+    Unique: Leur foi inébranlable leur permet d'accomplir des miracles sur le champ de bataille, renforçant leurs alliés et décimant leurs ennemis.
